@@ -16,7 +16,7 @@
 
 -----------------------------------------------------------分段线------------------------------------------------------------
 
-\2.  然后点击确定![img](file:///C:/Users/Michael/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+\2.  然后点击确定![img](assets/clip_image004.png)
 
 三、  桌面背景切换
 
@@ -24,4 +24,4 @@
 
 图片请看下一页
 
-![img](file:///C:/Users/Michael/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+![img](assets/clip_image006.png)
